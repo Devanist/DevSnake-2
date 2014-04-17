@@ -130,6 +130,8 @@ std::fstream records;
 //Uint32 delta = 0;
 //Uint32 fps = 0;
 
+
+//Struktura przechowywuj¹ca rekordy
 struct RKD
 {
 	int liczba;
