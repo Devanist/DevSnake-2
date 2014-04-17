@@ -93,7 +93,7 @@ bool YN(char s[], SDL_Surface * ekran, TTF_Font *font, SDL_Color kolor, SDL_Even
 	return wynik;
 }
 
-//zmienne
+//Deklaracja i inicjalizacja zmiennych
 SDL_Surface * ekran = NULL;
 SDL_Surface * snake = NULL;
 SDL_Surface * mapa = NULL;
